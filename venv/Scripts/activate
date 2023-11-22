@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\ailab\Desktop\file assistant\venv"
+VIRTUAL_ENV="C:\Users\ailab\Desktop\image_assistant\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
